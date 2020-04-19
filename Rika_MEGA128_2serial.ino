@@ -48,7 +48,7 @@ EthernetClient RIKAclient;                      // on crée un client
 EthernetClient client;
 EthernetServer RIKAserveur = EthernetServer(port_serveur);
 // requete HTTP GET à envoyer à la centrale domotique
-const char requete[]="GET /core/api/jeeApi.php?apikey=xk7afjvquas0sgvmr4le&type=scenario&id=50&action=start HTTP/1.0";
+const char requete[]="GET /core/api/jeeApi.php?apikey=xxxxxxxxxxxxxxxxxx&type=scenario&id=50&action=start HTTP/1.0";
 const char requeteDATE[]="GET / HTTP/1.0";  // requete HTTP juste pour obtenir la date
 
 
