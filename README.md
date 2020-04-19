@@ -1,7 +1,7 @@
 
 
 # Rika-REVO-GMS-emulator
-Permet de simuler le modem GSM d'un poêle à granule Rika Revo. Connecté en Ethernet, il devient possible de piloter le poêle avec un système domestique.
+Permet de simuler le modem GSM d'un poêle à granule Rika Revo. Connecté en Ethernet, il devient possible de piloter le poêle avec un système domotique.
 
 REMARQUE : le fichier .ino est parfaitement fonctionnel depuis 2 ans chez moi. Il correspond au firmware de mon poële, il n'y a aucune garantie de fonctionnement avec des poeles Rika plus récent, ni avec un poele identique mais avec un firmware différent.
 
